@@ -7,3 +7,5 @@
 * [[Inovação e Competividade]]
 * [[Matemática]]
 * [[Biologia]]
+* [[Sociologia]]
+* [[Filosofia]]

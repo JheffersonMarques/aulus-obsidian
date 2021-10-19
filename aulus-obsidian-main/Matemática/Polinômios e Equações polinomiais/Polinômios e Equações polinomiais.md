@@ -23,7 +23,7 @@ então, (x² - 10x + 26) = inteiro
 #### Teorema das raízes inteiras
 
 > Se *r* é uma raiz inteira da equação polinomial com coeficientes inteiros
-Entao *r* é divisor de *a0*
+Entao *r* é divisor de a<span style="font-size:10">*0*</span>
 
 ```
 R -> D_{a_{0}}
